@@ -10,7 +10,6 @@ Página con proyectos publicados en la Web http://utopolis.ugr.es/media/HRUN/
 
 Proyectos realizados: 
 
-- Rune (SEVEN) :octocat: 
 - ANATOLI SPUTNIK (GranaSlav) :octocat:
 
 
@@ -24,6 +23,7 @@ Proyectos realizados:
 
 ## Historia U - mUltiversos: universos distópicos
 
+- Rune (SEVEN) :octocat: 
 - Astarte (Coven) :octocat: https://github.com/pmprados/storytelling_21
 
 ## Historia N - Nómadas y personajes 
